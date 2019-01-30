@@ -1,0 +1,27 @@
+body{
+    padding:20px;
+}
+#title{
+    font-family:Bell MT;
+    font-size:40px;
+    color:#b52628;
+    background-color:#ffc7c8;
+}
+#subtitle{
+    font-family:Baskerville Old Face;
+    font-size:15px;
+    color:#260001;
+
+}
+li{
+    padding-bottom:20px;
+}
+#content{
+    padding:10px;
+    font-family:Bell MT;
+    font-size:20px;
+    color:#ffffff;
+    outline-color:red;
+    outline-style: double;
+    background-color:#f35153;
+}
